@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Welcome to Anything and Something App
                 </div>
 
                 <div class="links">
